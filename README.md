@@ -13,7 +13,6 @@ Operating System	Kali Linux
 Project Type	Cybersecurity / Ethical Hacking
 Focus Area	OSINT, Footprinting & Network Scanning
 
-⸻
 
 1. Liability Disclaimer
 
@@ -23,7 +22,6 @@ All reconnaissance and scanning activities must be performed within the scope of
 
 No unauthorized access, exploitation, disruption, or damage is intended or performed. Any security observations should be treated as learning points and not as confirmed vulnerabilities unless independently verified.
 
-⸻
 
 2. Introduction
 
@@ -32,8 +30,6 @@ Footprinting and reconnaissance are important early stages of ethical hacking an
 This project explores different reconnaissance techniques using Kali Linux and industry-standard cybersecurity tools, with NetworkWalks as the intended target for authorized OSINT activities.
 
 The exercise focuses on collecting publicly available information, identifying website technologies, discovering DNS records, and understanding network scanning techniques.
-
-⸻
 
 3. Project Objectives
 
@@ -47,7 +43,6 @@ The exercise focuses on collecting publicly available information, identifying w
 * Understand how reconnaissance findings can affect an organization’s security.
 * Document technical findings and security recommendations.
 
-⸻
 
 4. Tools Used
 
@@ -59,7 +54,6 @@ theHarvester	Collects publicly available information from OSINT sources.
 Zenmap	Provides a graphical interface for network scanning and host discovery.
 Kali Linux	Operating system used for cybersecurity testing.
 
-⸻
 
 5. Activities Performed
 
