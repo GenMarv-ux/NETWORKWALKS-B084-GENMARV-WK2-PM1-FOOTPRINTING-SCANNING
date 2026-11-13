@@ -200,6 +200,6 @@ Batch: B084
 Module: W2-PM1
 Project: Network Footprinting & Reconnaissance
 
-🔗LinkedIn:
+🔗LinkedIn: https://www.linkedin.com/in/isaac-marv-930185444/
 
 Disclaimer: This report is intended for educational purposes and authorized security testing only.
