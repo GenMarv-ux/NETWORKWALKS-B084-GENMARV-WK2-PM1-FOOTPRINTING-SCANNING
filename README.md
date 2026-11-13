@@ -72,11 +72,6 @@ Objectives:
 * Review available name server information.
 * Understand the information exposed through domain registration records.
 
-Observation and Findings:
-
-[Insert actual WHOIS findings.]
-
-⸻
 
 5.2 DIG – DNS Information Gathering
 
@@ -98,11 +93,7 @@ Objectives:
 * Review name server and TXT record information.
 * Understand how DNS supports domain resolution.
 
-Observation and Findings:
 
-[Insert actual DNS findings.]
-
-⸻
 
 5.3 WhatWeb – Website Technology Identification
 
@@ -119,11 +110,6 @@ Objectives:
 * Discover frameworks, libraries, and other technologies.
 * Understand the website’s technology footprint.
 
-Observation and Findings:
-
-[Insert actual WhatWeb findings.]
-
-⸻
 
 5.4 theHarvester – OSINT Information Gathering
 
@@ -140,11 +126,7 @@ Objectives:
 * Discover associated hostnames and subdomains where returned.
 * Understand how publicly available information supports reconnaissance.
 
-Observation and Findings:
 
-[Insert actual theHarvester findings.]
-
-⸻
 
 5.5 Zenmap – Network Scanning and Host Discovery
 
@@ -158,9 +140,6 @@ Objectives:
 * Practise interpreting network scan information.
 * Identify potential network exposure.
 
-Observation and Findings:
-
-[Insert actual Zenmap scan results, including the authorized target, discovered hosts, open ports, and detected services.]
 
 Note: Zenmap results must reflect the actual lab network scanned. Do not present local lab scan results as findings about NetworkWalks unless that network was specifically included in the authorization.
 
